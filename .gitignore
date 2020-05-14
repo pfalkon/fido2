@@ -31,3 +31,8 @@ server/apiclient/target/
 server/FIDO2Simulator/target/
 server/FIDO2SimulatorClient/target/
 server/skfsclient/target/
+
+# ps
+/install/
+.idea/
+*.iml
